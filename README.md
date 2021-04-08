@@ -1,3 +1,8 @@
+# 最新地址, 该项目已移到gitee
+# [https://gitee.com/pichs/xhttp](https://gitee.com/pichs/xhttp)
+
+
+
 # XHttp
 
 ### 好用的网络请求框架。
